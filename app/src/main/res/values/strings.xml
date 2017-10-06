@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+
+    <string name="view_btn">View Last Updated date</string>
+    <string name="update_btn">Update Date</string>
+    <string name="remove_btn">Remove saved Value</string>
+    <string name="clear_btn">Clear Storage</string>
+    <string name="internal_key">Internal storage Key</string>
+    <string name="current_date">Current Date</string>
+
+</resources>
